@@ -3,6 +3,10 @@
     padding: 0;
 }
 p{
-    color: blueviolet;
+    color: rgb(40, 2, 77);
     background-color: blue;
+}
+h1{
+    color: cyan;
+    background-color: antiquewhite;
 }
